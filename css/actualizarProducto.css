@@ -1,5 +1,5 @@
 .div-image-fondo{
-    background-image:url(../img/fruta.jfif) ;
+    background-image:url(../img/frutas1.jpg) ;
     background-size: 10rem;
 }
 body,
@@ -10,8 +10,8 @@ html {
     background: linear-gradient(150deg,#1d8d48e1 33%,#1d8d48e1 34%,#5ef66e 66%,#5ef66e 67%) !important;
 }
 .user_card {
-    height: 500px;
-    width: 450px;
+    height: 600px;
+    width: 700px;
     margin-top: 200px;
     margin-bottom: 100px;
     background: #7db06c;
